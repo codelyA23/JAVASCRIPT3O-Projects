@@ -8,3 +8,5 @@ This repository contains my solutions for the [Javascript30](https://javascript3
 |---|--------------|-------------|-----------|------------|
 | 01 | [JavaScript Drum Kit](./javascript%20drum%20kit) | A virtual drum kit played with keyboard keys. | [Live Demo](https://codelya23.github.io/JAVASCRIPT3O-Projects/javascript%20drum%20kit/index.html) | [Code](./javascript%20drum%20kit) |
 <!-- Projects will be added here as I complete them -->
+
+<!-- a comment because i am sick and cannot code and I do not want to loss me streak/progress -->
